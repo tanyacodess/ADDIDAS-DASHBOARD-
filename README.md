@@ -1,4 +1,7 @@
+
 📊 Project Description: Adidas Sales Analysis Dashboard
+<img width="1280" height="800" alt="Screenshot 2025-12-04 at 12 35 48 PM" src="https://github.com/user-attachments/assets/4e81c3a5-bd56-4b7b-be6e-118b61d2d35f" />
+
 I developed an interactive Adidas Sales Analysis Dashboard using Excel, featuring multiple pivot tables and visual insights to help understand sales performance across different business dimensions.
 The dashboard presents a clear, data-driven overview of Adidas’ sales, enabling stakeholders to quickly track performance trends and make informed decisions.
 🔍 Key Features of the Dashboard
